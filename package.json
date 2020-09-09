@@ -1,0 +1,12 @@
+{
+  "name": "simpleABM",
+  "version": "1.0.0",
+  "description": "Desarrola una ABM de moviles y personas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
